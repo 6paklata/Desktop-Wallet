@@ -173,7 +173,7 @@
     "webpack-merge": "^4.1.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "crypto": "^1.0.1",
     "date-fns": "^1.29.0",
     "decimal.js": "^10.0.1",
